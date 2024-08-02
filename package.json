@@ -13,5 +13,8 @@
   "license": "ISC",
   "repository": {
     "url": "https://github.com/utenteags/first-typescript-project"
+  },
+  "dependencies": {
+    "faker": "^6.6.6"
   }
 }
