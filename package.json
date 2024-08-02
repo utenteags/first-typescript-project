@@ -10,5 +10,8 @@
     "alberto"
   ],
   "author": "bigjohnson",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "url": "https://github.com/utenteags/first-typescript-project"
+  }
 }
